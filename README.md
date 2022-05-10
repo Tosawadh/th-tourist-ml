@@ -1,8 +1,9 @@
-# th-tourist-ml (WIP)
+# Thailand Tourist Analysis
 Thailand Tourist revenue data analysis
 # Contributors
 - Tosawadh Chanpradubfa (me)
 - [Jirapa Jariyakun](https://github.com/jirapajj)
+# [Youtube Link](https://youtu.be/rs8ATz76cb8)
 # Notes
 - The report is written in Thai because this is a final project for our University
 # Data source
